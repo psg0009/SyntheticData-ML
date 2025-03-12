@@ -51,7 +51,7 @@ Key findings from our experiments:
 
 ## Visualizations
 **Figure 1:** Membership Inference Attack Accuracy and Model Vulnerability.
-![Membership Inference Attack]![image](https://github.com/user-attachments/assets/ec0443e5-97d7-455b-9848-09e020692b9a)
+![Membership Inference Attack]![image](https://github.com/user-attachments/assets/8d28d702-d025-46d8-900e-90aab364e5ca)
 
 
 
