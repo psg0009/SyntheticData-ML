@@ -51,10 +51,12 @@ Key findings from our experiments:
 
 ## Visualizations
 **Figure 1:** Membership Inference Attack Accuracy and Model Vulnerability.
-![Membership Inference Attack](attachment:file-J97ToLbAqJWcQxYtzrhzqY)
+![Membership Inference Attack]![image](https://github.com/user-attachments/assets/16bc2c5c-3c61-4698-a1dd-13a36bd90efb)
+
 
 **Figure 2:** Data Distribution Before and After Differential Privacy Application.
-![Differential Privacy Applied](attachment:file-HggiwhJaB92bZz2weyHPub)
+![Differential Privacy Applied]![image](https://github.com/user-attachments/assets/17584bc8-ef10-4567-8dcd-1e02d1b0f778)
+
 
 ## Privacy-Preserving AI Techniques
 This project integrates several security enhancements:
