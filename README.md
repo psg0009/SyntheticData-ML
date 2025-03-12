@@ -1,8 +1,6 @@
 # SyntheticData-ML
 
-# Privacy-Preserving Medical AI Research
-
-This repository contains the implementation of the research paper **"Enhancing Privacy and Security in Medical AI: A Comprehensive Study on Synthetic Data and Model Robustness"**. The project evaluates the use of **synthetic data, differential privacy, federated learning, and adversarial robustness** in healthcare AI models.
+This repository contains the implementation of the research paper **"Evaluating the Utility of Synthetic Patient Data in Machine Learning-Based Disease Prediction: A Security, Fairness, and Privacy Perspective"**. The project evaluates the use of **synthetic data, differential privacy, federated learning, and adversarial robustness** in healthcare AI models.
 
 ## Overview
 This repository includes:
